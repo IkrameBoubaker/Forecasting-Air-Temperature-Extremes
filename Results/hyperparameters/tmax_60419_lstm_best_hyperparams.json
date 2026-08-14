@@ -1,0 +1,19 @@
+{
+  "model": "LSTM",
+  "station_id": 60419,
+  "target": "tmax",
+  "filters": 32,
+  "lstm_units": 64,
+  "dropout": 0.2,
+  "lr": 0.001,
+  "kernel_size": 3,
+  "global_seed": 42,
+  "run_seeds": [
+    42,
+    123,
+    456,
+    789,
+    2024
+  ],
+  "n_runs": 5
+}

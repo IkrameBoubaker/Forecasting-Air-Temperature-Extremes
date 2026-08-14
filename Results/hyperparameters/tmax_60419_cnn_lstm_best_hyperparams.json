@@ -1,0 +1,19 @@
+{
+  "model": "CNN_LSTM",
+  "station_id": 60419,
+  "target": "tmax",
+  "filters": 64,
+  "lstm_units": 64,
+  "dropout": 0.1,
+  "lr": 0.0005,
+  "kernel_size": 5,
+  "global_seed": 42,
+  "run_seeds": [
+    42,
+    123,
+    456,
+    789,
+    2024
+  ],
+  "n_runs": 5
+}

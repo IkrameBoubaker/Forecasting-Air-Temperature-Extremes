@@ -1,0 +1,16 @@
+{
+  "model": "SARIMA",
+  "station_id": 60475,
+  "target": "tmax",
+  "order": [
+    1,
+    1,
+    2
+  ],
+  "seasonal_order": [
+    1,
+    0,
+    1,
+    7
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "model": "SVR",
+  "station_id": 60566,
+  "target": "tmax",
+  "C": 100.0,
+  "epsilon": 0.01,
+  "kernel": "linear"
+}
