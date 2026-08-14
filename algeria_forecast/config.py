@@ -94,7 +94,7 @@ class Config:
         r"C:\Users\USER\PycharmProjects\GitHubProject\Datasets")))
     out_dir: Path = field(default_factory=lambda: Path(os.environ.get(
         "ALGERIA_OUT",
-        r"C:\Users\USER\PycharmProjects\GitHubProject\Results\Univariate")))
+        r".....\Results\Univariate"))) #Write your path
 
     def __post_init__(self):
         # Input paths
