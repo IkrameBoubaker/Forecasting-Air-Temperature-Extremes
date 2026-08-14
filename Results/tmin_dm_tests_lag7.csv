@@ -1,0 +1,73 @@
+station,zone,target,comparison,DM_stat,p_value,better_raw,p_value_adj,significant_raw,significant_fdr,better,p_value_global_adj,significant_global_fdr,better_global
+Annaba,Mediterranean,tmin,CNN-LSTM vs Persistence,-5.8264,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Annaba,Mediterranean,tmin,CNN-LSTM vs Climatology,-5.6116,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Annaba,Mediterranean,tmin,CNN-LSTM vs GFS,-12.0287,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Annaba,Mediterranean,tmin,CNN-LSTM vs ARIMA,-11.248,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Annaba,Mediterranean,tmin,CNN-LSTM vs SARIMA,-11.094,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Annaba,Mediterranean,tmin,CNN-LSTM vs ANN,-3.8206,0.0001,CNN-LSTM,0.000133,True,True,CNN-LSTM,0.00016,True,CNN-LSTM
+Annaba,Mediterranean,tmin,CNN-LSTM vs SVR,0.4706,0.6379,equal,0.6379,False,False,equal,0.717638,False,equal
+Annaba,Mediterranean,tmin,CNN-LSTM vs LSTM,-2.1608,0.0307,CNN-LSTM,0.035086,True,True,CNN-LSTM,0.040189,True,CNN-LSTM
+Dar El Beida,Mediterranean,tmin,CNN-LSTM vs Persistence,-4.9142,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Dar El Beida,Mediterranean,tmin,CNN-LSTM vs Climatology,-8.3902,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Dar El Beida,Mediterranean,tmin,CNN-LSTM vs GFS,-21.2125,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Dar El Beida,Mediterranean,tmin,CNN-LSTM vs ARIMA,-12.5702,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Dar El Beida,Mediterranean,tmin,CNN-LSTM vs SARIMA,-12.5376,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Dar El Beida,Mediterranean,tmin,CNN-LSTM vs ANN,-2.4446,0.0145,CNN-LSTM,0.016571,True,True,CNN-LSTM,0.019698,True,CNN-LSTM
+Dar El Beida,Mediterranean,tmin,CNN-LSTM vs SVR,-2.8749,0.004,CNN-LSTM,0.005333,True,True,CNN-LSTM,0.005878,True,CNN-LSTM
+Dar El Beida,Mediterranean,tmin,CNN-LSTM vs LSTM,-0.5933,0.553,equal,0.553,False,False,equal,0.652721,False,equal
+Oran/Es Senia,Mediterranean,tmin,CNN-LSTM vs Persistence,-5.6993,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Oran/Es Senia,Mediterranean,tmin,CNN-LSTM vs Climatology,-7.4444,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Oran/Es Senia,Mediterranean,tmin,CNN-LSTM vs GFS,-15.5391,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Oran/Es Senia,Mediterranean,tmin,CNN-LSTM vs ARIMA,-11.4903,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Oran/Es Senia,Mediterranean,tmin,CNN-LSTM vs SARIMA,-11.5495,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Oran/Es Senia,Mediterranean,tmin,CNN-LSTM vs ANN,-4.8259,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Oran/Es Senia,Mediterranean,tmin,CNN-LSTM vs SVR,-0.6748,0.4998,equal,0.5712,False,False,equal,0.59976,False,equal
+Oran/Es Senia,Mediterranean,tmin,CNN-LSTM vs LSTM,-0.556,0.5782,equal,0.5782,False,False,equal,0.671458,False,equal
+Constantine,Semi-arid,tmin,CNN-LSTM vs Persistence,-5.1967,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Constantine,Semi-arid,tmin,CNN-LSTM vs Climatology,-8.4184,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Constantine,Semi-arid,tmin,CNN-LSTM vs GFS,-12.29,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Constantine,Semi-arid,tmin,CNN-LSTM vs ARIMA,-13.3659,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Constantine,Semi-arid,tmin,CNN-LSTM vs SARIMA,-12.9343,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Constantine,Semi-arid,tmin,CNN-LSTM vs ANN,-1.9698,0.0489,CNN-LSTM,0.0652,True,False,equal,0.062871,False,equal
+Constantine,Semi-arid,tmin,CNN-LSTM vs SVR,-1.449,0.1473,equal,0.168343,False,False,equal,0.182855,False,equal
+Constantine,Semi-arid,tmin,CNN-LSTM vs LSTM,0.3393,0.7344,equal,0.7344,False,False,equal,0.789206,False,equal
+Tebessa,Semi-arid,tmin,CNN-LSTM vs Persistence,-5.0871,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Tebessa,Semi-arid,tmin,CNN-LSTM vs Climatology,-7.4614,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Tebessa,Semi-arid,tmin,CNN-LSTM vs GFS,-2.8561,0.0043,CNN-LSTM,0.00688,True,True,CNN-LSTM,0.006192,True,CNN-LSTM
+Tebessa,Semi-arid,tmin,CNN-LSTM vs ARIMA,-10.8635,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Tebessa,Semi-arid,tmin,CNN-LSTM vs SARIMA,-10.9034,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Tebessa,Semi-arid,tmin,CNN-LSTM vs ANN,-2.2362,0.0253,CNN-LSTM,0.033733,True,True,CNN-LSTM,0.033733,True,CNN-LSTM
+Tebessa,Semi-arid,tmin,CNN-LSTM vs SVR,-0.3194,0.7494,equal,0.8113,False,False,equal,0.793482,False,equal
+Tebessa,Semi-arid,tmin,CNN-LSTM vs LSTM,-0.2388,0.8113,equal,0.8113,False,False,equal,0.846574,False,equal
+Djelfa,Semi-arid,tmin,CNN-LSTM vs Persistence,-3.3487,0.0008,CNN-LSTM,0.001067,True,True,CNN-LSTM,0.001226,True,CNN-LSTM
+Djelfa,Semi-arid,tmin,CNN-LSTM vs Climatology,-9.4744,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Djelfa,Semi-arid,tmin,CNN-LSTM vs GFS,-5.6322,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Djelfa,Semi-arid,tmin,CNN-LSTM vs ARIMA,-12.9747,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Djelfa,Semi-arid,tmin,CNN-LSTM vs SARIMA,-12.9901,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Djelfa,Semi-arid,tmin,CNN-LSTM vs ANN,-5.6464,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Djelfa,Semi-arid,tmin,CNN-LSTM vs SVR,-0.4938,0.6214,equal,0.6214,False,False,equal,0.710171,False,equal
+Djelfa,Semi-arid,tmin,CNN-LSTM vs LSTM,-1.6996,0.0892,equal,0.101943,False,False,equal,0.112674,False,equal
+Ghardaia,Saharan,tmin,CNN-LSTM vs Persistence,-3.4532,0.0006,CNN-LSTM,0.00096,True,True,CNN-LSTM,0.000939,True,CNN-LSTM
+Ghardaia,Saharan,tmin,CNN-LSTM vs Climatology,-8.5571,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Ghardaia,Saharan,tmin,CNN-LSTM vs GFS,2.4723,0.0134,GFS,0.017867,True,True,GFS,0.018554,True,GFS
+Ghardaia,Saharan,tmin,CNN-LSTM vs ARIMA,-14.4151,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Ghardaia,Saharan,tmin,CNN-LSTM vs SARIMA,-14.3923,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Ghardaia,Saharan,tmin,CNN-LSTM vs ANN,-5.643,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Ghardaia,Saharan,tmin,CNN-LSTM vs SVR,0.119,0.9053,equal,0.9053,False,False,equal,0.931166,False,equal
+Ghardaia,Saharan,tmin,CNN-LSTM vs LSTM,-0.7045,0.4811,equal,0.549829,False,False,equal,0.587105,False,equal
+Bechar,Saharan,tmin,CNN-LSTM vs Persistence,-4.0603,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Bechar,Saharan,tmin,CNN-LSTM vs Climatology,-5.924,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Bechar,Saharan,tmin,CNN-LSTM vs GFS,-5.8261,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Bechar,Saharan,tmin,CNN-LSTM vs ARIMA,-14.6349,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Bechar,Saharan,tmin,CNN-LSTM vs SARIMA,-14.6962,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+Bechar,Saharan,tmin,CNN-LSTM vs ANN,-3.0736,0.0021,CNN-LSTM,0.0028,True,True,CNN-LSTM,0.00315,True,CNN-LSTM
+Bechar,Saharan,tmin,CNN-LSTM vs SVR,0.0424,0.9661,equal,0.9661,False,False,equal,0.9661,False,equal
+Bechar,Saharan,tmin,CNN-LSTM vs LSTM,0.0494,0.9606,equal,0.9661,False,False,equal,0.9661,False,equal
+El Golea,Saharan,tmin,CNN-LSTM vs Persistence,-4.4898,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+El Golea,Saharan,tmin,CNN-LSTM vs Climatology,-4.5404,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+El Golea,Saharan,tmin,CNN-LSTM vs GFS,-12.1621,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+El Golea,Saharan,tmin,CNN-LSTM vs ARIMA,-14.7835,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+El Golea,Saharan,tmin,CNN-LSTM vs SARIMA,-14.6598,0.0,CNN-LSTM,0.0,True,True,CNN-LSTM,0.0,True,CNN-LSTM
+El Golea,Saharan,tmin,CNN-LSTM vs ANN,-2.7173,0.0066,CNN-LSTM,0.0088,True,True,CNN-LSTM,0.009318,True,CNN-LSTM
+El Golea,Saharan,tmin,CNN-LSTM vs SVR,-0.3774,0.7059,equal,0.7059,False,False,equal,0.770073,False,equal
+El Golea,Saharan,tmin,CNN-LSTM vs LSTM,0.4095,0.6822,equal,0.7059,False,False,equal,0.755668,False,equal

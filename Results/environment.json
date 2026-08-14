@@ -1,0 +1,24 @@
+{
+  "python": "3.13.7",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "tensorflow": "2.20.0",
+  "keras": "3.11.3",
+  "numpy": "2.2.6",
+  "pandas": "2.3.2",
+  "scikit_learn": "1.7.2",
+  "scipy": "1.16.2",
+  "statsmodels": "0.14.5",
+  "global_seed": 42,
+  "n_runs": 5,
+  "run_seeds": [
+    42,
+    123,
+    456,
+    789,
+    2024
+  ],
+  "lag": 7,
+  "test_start": "2024-07-21",
+  "test_end": "2026-07-21",
+  "gpu": "CPU only"
+}

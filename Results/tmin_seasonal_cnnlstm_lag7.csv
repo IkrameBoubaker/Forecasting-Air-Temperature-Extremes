@@ -1,0 +1,10 @@
+station,zone,Winter_RMSE,Spring_RMSE,Summer_RMSE,Autumn_RMSE
+Annaba,Mediterranean,2.1129,2.075,1.9349,1.9583
+Dar El Beida,Mediterranean,2.7365,2.6609,2.0755,2.6362
+Oran/Es Senia,Mediterranean,2.4964,2.2729,1.9496,2.3666
+Constantine,Semi-arid,2.0643,2.2687,1.9804,2.1697
+Tebessa,Semi-arid,2.8246,2.7237,2.3506,2.5219
+Djelfa,Semi-arid,2.2353,2.1401,1.927,1.9742
+Ghardaia,Saharan,2.1464,2.1003,1.6124,1.9577
+Bechar,Saharan,2.3378,2.5023,2.129,2.2749
+El Golea,Saharan,2.9988,3.3588,2.5614,2.8833
