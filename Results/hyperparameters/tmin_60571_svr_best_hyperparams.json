@@ -1,0 +1,8 @@
+{
+  "model": "SVR",
+  "station_id": 60571,
+  "target": "tmin",
+  "C": 0.1,
+  "epsilon": 0.05,
+  "kernel": "rbf"
+}

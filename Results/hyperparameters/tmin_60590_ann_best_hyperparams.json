@@ -1,0 +1,17 @@
+{
+  "model": "ANN",
+  "station_id": 60590,
+  "target": "tmin",
+  "hidden_units": 32,
+  "dropout": 0.1,
+  "lr": 0.0005,
+  "global_seed": 42,
+  "run_seeds": [
+    42,
+    123,
+    456,
+    789,
+    2024
+  ],
+  "n_runs": 5
+}

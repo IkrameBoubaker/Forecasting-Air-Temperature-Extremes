@@ -1,0 +1,10 @@
+{
+  "model": "ARIMA",
+  "station_id": 60390,
+  "target": "tmin",
+  "order": [
+    1,
+    1,
+    2
+  ]
+}
